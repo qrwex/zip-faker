@@ -1,0 +1,634 @@
+{
+    "AF": [
+        "NNNN"
+    ],
+    "AX": [
+        "NNNNN",
+        "CC-NNNNN"
+    ],
+    "AL": [
+        "NNNN"
+    ],
+    "DZ": [
+        "NNNNN"
+    ],
+    "AS": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "AD": [
+        "CCNNN"
+    ],
+    "AO": [],
+    "AI": [
+        "AI-2640"
+    ],
+    "AG": [],
+    "AR": [
+        "NNNN"
+    ],
+    "AM": [
+        "NNNN"
+    ],
+    "AW": [],
+    "AU": [
+        "NNNN"
+    ],
+    "AT": [
+        "NNNN"
+    ],
+    "AZ": [
+        "CCNNNN"
+    ],
+    "BS": [],
+    "BH": [
+        "NNN",
+        "NNNN"
+    ],
+    "BD": [
+        "NNNN"
+    ],
+    "BB": [
+        "CCNNNNN"
+    ],
+    "BY": [
+        "NNNNNN"
+    ],
+    "BE": [
+        "NNNN"
+    ],
+    "BZ": [],
+    "BJ": [],
+    "BM": [],
+    "BT": [
+        "NNNNN"
+    ],
+    "BO": [],
+    "BQ": [],
+    "BA": [
+        "NNNNN"
+    ],
+    "BW": [],
+    "BR": [
+        "NNNNN",
+        "NNNNN-NNN"
+    ],
+    "AQ": [
+        "BIQQ 1ZZ"
+    ],
+    "IO": [
+        "BBND 1ZZ"
+    ],
+    "VG": [
+        "CCNNNN"
+    ],
+    "BN": [
+        "AANNNN"
+    ],
+    "BG": [
+        "NNNN"
+    ],
+    "BF": [],
+    "BI": [],
+    "KH": [
+        "NNNNN"
+    ],
+    "CM": [],
+    "CA": [
+        "ANA NAN"
+    ],
+    "CV": [
+        "NNNN"
+    ],
+    "KY": [
+        "CCN-NNNN"
+    ],
+    "CF": [],
+    "TD": [],
+    "CL": [
+        "NNNNNNN",
+        "NNN-NNNN"
+    ],
+    "CN": [
+        "NNNNNN"
+    ],
+    "CX": [
+        "NNNN"
+    ],
+    "CC": [
+        "NNNN"
+    ],
+    "CO": [
+        "NNNNNN"
+    ],
+    "KM": [],
+    "CG": [],
+    "CD": [],
+    "CK": [],
+    "CR": [
+        "NNNNN"
+    ],
+    "CI": [],
+    "HR": [
+        "NNNNN"
+    ],
+    "CU": [
+        "NNNNN"
+    ],
+    "CW": [],
+    "CY": [
+        "NNNN"
+    ],
+    "CZ": [
+        "NNN NN"
+    ],
+    "DK": [
+        "NNNN"
+    ],
+    "DJ": [],
+    "DM": [],
+    "DO": [
+        "NNNNN"
+    ],
+    "TL": [],
+    "EC": [
+        "NNNNNN"
+    ],
+    "SV": [
+        "NNNN"
+    ],
+    "EG": [
+        "NNNNN"
+    ],
+    "GQ": [],
+    "ER": [],
+    "EE": [
+        "NNNNN"
+    ],
+    "ET": [
+        "NNNN"
+    ],
+    "FK": [
+        "FIQQ 1ZZ"
+    ],
+    "FO": [
+        "NNN"
+    ],
+    "FJ": [],
+    "FI": [
+        "NNNNN"
+    ],
+    "FR": [
+        "NNNNN"
+    ],
+    "GF": [
+        "973NN"
+    ],
+    "PF": [
+        "987NN"
+    ],
+    "TF": [],
+    "GA": [],
+    "GM": [],
+    "GE": [
+        "NNNN"
+    ],
+    "DE": [
+        "NNNNN"
+    ],
+    "GH": [],
+    "GI": [
+        "GX11 1AA"
+    ],
+    "GR": [
+        "NNN NN"
+    ],
+    "GL": [
+        "NNNN"
+    ],
+    "GD": [],
+    "GP": [
+        "971NN"
+    ],
+    "GU": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "GT": [
+        "NNNNN"
+    ],
+    "GG": [
+        "AAN NAA",
+        "AANN NAA"
+    ],
+    "GN": [
+        "NNN"
+    ],
+    "GW": [
+        "NNNN"
+    ],
+    "GY": [],
+    "HT": [
+        "NNNN"
+    ],
+    "HM": [],
+    "HN": [
+        "CCNNNNN"
+    ],
+    "HK": [],
+    "": [
+        ""
+    ],
+    "HU": [
+        "NNNN"
+    ],
+    "IS": [
+        "NNN"
+    ],
+    "IN": [
+        "NNNNNN"
+    ],
+    "ID": [
+        "NNNNN"
+    ],
+    "IR": [
+        "NNNNNNNNNN"
+    ],
+    "IQ": [
+        "NNNNN"
+    ],
+    "IE": [],
+    "IM": [
+        "CCN NAA",
+        "CCNN NAA"
+    ],
+    "IL": [
+        "NNNNNNN"
+    ],
+    "IT": [
+        "NNNNN"
+    ],
+    "JM": [
+        "NN"
+    ],
+    "JP": [
+        "NNN-NNNN"
+    ],
+    "JE": [
+        "CCN NAA",
+        "CCNN NAA"
+    ],
+    "JO": [
+        "NNNNN"
+    ],
+    "KZ": [
+        "NNNNNN"
+    ],
+    "KE": [
+        "NNNNN"
+    ],
+    "KI": [],
+    "KP": [],
+    "KR": [
+        "NNNNN"
+    ],
+    "XK": [
+        "NNNNN"
+    ],
+    "KW": [
+        "NNNNN"
+    ],
+    "KG": [
+        "NNNNNN"
+    ],
+    "LA": [
+        "NNNNN"
+    ],
+    "LV": [
+        "CC-NNNN"
+    ],
+    "LB": [
+        "NNNNN",
+        "NNNN NNNN"
+    ],
+    "LS": [
+        "NNN"
+    ],
+    "LR": [
+        "NNNN"
+    ],
+    "LY": [],
+    "LI": [
+        "NNNN"
+    ],
+    "LT": [
+        "CC-NNNNN"
+    ],
+    "LU": [
+        "NNNN"
+    ],
+    "MO": [],
+    "MK": [
+        "NNNN"
+    ],
+    "MG": [
+        "NNN"
+    ],
+    "MW": [],
+    "MY": [
+        "NNNNN"
+    ],
+    "MV": [
+        "NNNNN"
+    ],
+    "ML": [],
+    "MT": [
+        "AAA NNNN"
+    ],
+    "MH": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "MR": [],
+    "MU": [
+        "NNNNN"
+    ],
+    "MQ": [
+        "972NN"
+    ],
+    "YT": [
+        "976NN"
+    ],
+    "MX": [
+        "NNNNN"
+    ],
+    "FM": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "MD": [
+        "CCNNNN",
+        "CC-NNNN"
+    ],
+    "MC": [
+        "980NN"
+    ],
+    "MN": [
+        "NNNNN"
+    ],
+    "ME": [
+        "NNNNN"
+    ],
+    "MS": [
+        "MSR 1110-1350"
+    ],
+    "MA": [
+        "NNNNN"
+    ],
+    "MZ": [
+        "NNNN"
+    ],
+    "MM": [
+        "NNNNN"
+    ],
+    "NA": [],
+    "NR": [],
+    "NP": [
+        "NNNNN"
+    ],
+    "NL": [],
+    "NC": [
+        "988NN"
+    ],
+    "NZ": [
+        "NNNN"
+    ],
+    "NI": [
+        "NNNNN"
+    ],
+    "NE": [
+        "NNNN"
+    ],
+    "NG": [
+        "NNNNNN"
+    ],
+    "NU": [],
+    "NF": [
+        "NNNN"
+    ],
+    "MP": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "NO": [
+        "NNNN"
+    ],
+    "OM": [
+        "NNN"
+    ],
+    "PK": [
+        "NNNNN"
+    ],
+    "PW": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "PS": [
+        "NNN"
+    ],
+    "PA": [
+        "NNNN"
+    ],
+    "PG": [
+        "NNN"
+    ],
+    "PY": [
+        "NNNN"
+    ],
+    "PE": [
+        "NNNNN",
+        "CC NNNN"
+    ],
+    "PH": [
+        "NNNN"
+    ],
+    "PN": [
+        "PCRN 1ZZ"
+    ],
+    "PL": [
+        "NN-NNN"
+    ],
+    "PT": [
+        "NNNN-NNN"
+    ],
+    "PR": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "QA": [],
+    "RE": [
+        "974NN"
+    ],
+    "RO": [
+        "NNNNNN"
+    ],
+    "RW": [],
+    "RU": [
+        "NNNNNN"
+    ],
+    "BL": [
+        "97133"
+    ],
+    "SH": [
+        "AAAA 1ZZ"
+    ],
+    "KN": [],
+    "LC": [
+        "LCNN NNN"
+    ],
+    "MF": [
+        "97150"
+    ],
+    "PM": [
+        "97500"
+    ],
+    "VC": [
+        "CCNNNN"
+    ],
+    "WS": [
+        "CCNNNN"
+    ],
+    "SM": [
+        "4789N"
+    ],
+    "ST": [],
+    "SA": [
+        "NNNNN-NNNN",
+        "NNNNN"
+    ],
+    "SN": [
+        "NNNNN"
+    ],
+    "RS": [
+        "NNNNN"
+    ],
+    "SC": [],
+    "SL": [],
+    "SX": [],
+    "SG": [
+        "NNNNNN"
+    ],
+    "SK": [
+        "NNN NN"
+    ],
+    "SI": [
+        "NNNN",
+        "CC-NNNN"
+    ],
+    "SB": [],
+    "SO": [
+        "AA NNNNN"
+    ],
+    "ZA": [
+        "NNNN"
+    ],
+    "GS": [
+        "SIQQ 1ZZ"
+    ],
+    "ES": [
+        "NNNNN"
+    ],
+    "LK": [
+        "NNNNN"
+    ],
+    "SD": [
+        "NNNNN"
+    ],
+    "SR": [],
+    "SZ": [
+        "ANNN"
+    ],
+    "SE": [
+        "NNN NN"
+    ],
+    "CH": [
+        "NNNN"
+    ],
+    "SJ": [
+        "NNNN"
+    ],
+    "SY": [],
+    "TW": [
+        "NNN",
+        "NNN-NN"
+    ],
+    "TJ": [
+        "NNNNNN"
+    ],
+    "TZ": [
+        "NNNNN"
+    ],
+    "TH": [
+        "NNNNN"
+    ],
+    "TG": [],
+    "TK": [],
+    "TO": [],
+    "TT": [
+        "NNNNNN"
+    ],
+    "TN": [
+        "NNNN"
+    ],
+    "TR": [
+        "NNNNN"
+    ],
+    "TM": [
+        "NNNNNN"
+    ],
+    "TC": [
+        "TKCA 1ZZ"
+    ],
+    "TV": [],
+    "UG": [],
+    "UA": [
+        "NNNNN"
+    ],
+    "AE": [],
+    "GB": [
+        "AANA NAA"
+    ],
+    "US": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "UY": [
+        "NNNNN"
+    ],
+    "VI": [
+        "NNNNN",
+        "NNNNN-NNNN"
+    ],
+    "UZ": [
+        "NNNNNN"
+    ],
+    "VU": [],
+    "VA": [
+        "00120"
+    ],
+    "VE": [
+        "NNNN",
+        "NNNN-A"
+    ],
+    "VN": [
+        "NNNNNN"
+    ],
+    "WF": [
+        "986NN"
+    ],
+    "YE": [],
+    "ZM": [
+        "NNNNN"
+    ],
+    "ZW": []
+}
