@@ -9,4 +9,5 @@ Usage
 ``$ node index.js --country lv``
 
 Result
+
 `LV-1144`
