@@ -257,7 +257,12 @@
     "IQ": [
         "NNNNN"
     ],
-    "IE": [],
+    "IE": [
+        "ANN",
+        "ANAN",
+        "AANN",
+        "ANAA"
+    ],
     "IM": [
         "CCN NAA",
         "CCNN NAA"
@@ -396,7 +401,9 @@
     "NP": [
         "NNNNN"
     ],
-    "NL": [],
+    "NL": [
+        "NNNN AA"
+    ],
     "NC": [
         "988NN"
     ],
@@ -596,6 +603,7 @@
     ],
     "AE": [],
     "GB": [
+        "AANA NA",
         "AANA NAA"
     ],
     "US": [
