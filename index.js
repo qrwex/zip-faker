@@ -1,9 +1,12 @@
+'use strict';
+
+const express = require('express');
+const app = express();
 const zip = require('./src/ZipFaker');
-const args = require('yargs').argv;
 
+app.get('/generate/:country', (req, res) => {
+    let code = zip.generate(req.params.country);
+    res.send({code});
+});
 
-if (!args.country) {
-    return console.log('missing country argument');
-}
-
-console.log(zip.generate(args.country));
+app.listen(3003);

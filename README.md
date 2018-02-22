@@ -1,13 +1,13 @@
-# ZIP (Postal code) Faker
+# ZIP (Postal code) Faker API
 
 Installation
 
 ``$ npm i``
 
-Usage
+Startup
 
-``$ node index.js --country lv``
+``$ npm run serve``
 
-Result
+Example request
 
-`LV-1144`
+``http://localhost:3003/generate/lt``
