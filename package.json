@@ -1,5 +1,5 @@
 {
-  "name": "ZIP (Postal code) Faker API",
+  "name": "ZIP-Faker",
   "version": "1.0.0",
   "description": "Generates ZIP (Postal code) for a desired country",
   "main": "index.js",
