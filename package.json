@@ -1,5 +1,5 @@
 {
-  "name": "ZIP-Faker",
+  "name": "zip-faker",
   "version": "1.0.0",
   "description": "Generates ZIP (Postal code) for a desired country",
   "main": "index.js",
@@ -10,9 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
-    "lodash": "^4.17.5",
-    "yargs": "^11.0.0",
-    "nodemon": "^1.15.1"
+    "express": "^4.16.3",
+    "lodash": "^4.17.11",
+    "nodemon": "^1.18.4",
+    "yargs": "^11.1.0"
   }
 }
